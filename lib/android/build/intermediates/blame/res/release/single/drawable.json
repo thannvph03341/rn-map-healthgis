@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/DevBytes/frontend/Mobile/Platfrom/react-native/HealthGISv2/node_modules/react-native-maps/lib/android/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_disabled.xml",
+        "source": "/Users/nongthan/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/01619fcdf85c2f1d355a8c074b9e790f/res/drawable/common_google_signin_btn_icon_disabled.xml"
+    },
+    {
+        "merged": "/DevBytes/frontend/Mobile/Platfrom/react-native/HealthGISv2/node_modules/react-native-maps/lib/android/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_normal.xml",
+        "source": "/Users/nongthan/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/01619fcdf85c2f1d355a8c074b9e790f/res/drawable/common_google_signin_btn_icon_dark_normal.xml"
+    },
+    {
+        "merged": "/DevBytes/frontend/Mobile/Platfrom/react-native/HealthGISv2/node_modules/react-native-maps/lib/android/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_normal.xml",
+        "source": "/Users/nongthan/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/01619fcdf85c2f1d355a8c074b9e790f/res/drawable/common_google_signin_btn_text_light_normal.xml"
+    },
+    {
+        "merged": "/DevBytes/frontend/Mobile/Platfrom/react-native/HealthGISv2/node_modules/react-native-maps/lib/android/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/nongthan/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/01619fcdf85c2f1d355a8c074b9e790f/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/DevBytes/frontend/Mobile/Platfrom/react-native/HealthGISv2/node_modules/react-native-maps/lib/android/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/nongthan/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/01619fcdf85c2f1d355a8c074b9e790f/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/DevBytes/frontend/Mobile/Platfrom/react-native/HealthGISv2/node_modules/react-native-maps/lib/android/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/nongthan/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/01619fcdf85c2f1d355a8c074b9e790f/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/DevBytes/frontend/Mobile/Platfrom/react-native/HealthGISv2/node_modules/react-native-maps/lib/android/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/nongthan/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/01619fcdf85c2f1d355a8c074b9e790f/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/DevBytes/frontend/Mobile/Platfrom/react-native/HealthGISv2/node_modules/react-native-maps/lib/android/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/nongthan/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/01619fcdf85c2f1d355a8c074b9e790f/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/DevBytes/frontend/Mobile/Platfrom/react-native/HealthGISv2/node_modules/react-native-maps/lib/android/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/nongthan/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/01619fcdf85c2f1d355a8c074b9e790f/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/DevBytes/frontend/Mobile/Platfrom/react-native/HealthGISv2/node_modules/react-native-maps/lib/android/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_dark_normal.xml",
+        "source": "/Users/nongthan/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/01619fcdf85c2f1d355a8c074b9e790f/res/drawable/common_google_signin_btn_text_dark_normal.xml"
+    },
+    {
+        "merged": "/DevBytes/frontend/Mobile/Platfrom/react-native/HealthGISv2/node_modules/react-native-maps/lib/android/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light_normal.xml",
+        "source": "/Users/nongthan/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/01619fcdf85c2f1d355a8c074b9e790f/res/drawable/common_google_signin_btn_icon_light_normal.xml"
+    },
+    {
+        "merged": "/DevBytes/frontend/Mobile/Platfrom/react-native/HealthGISv2/node_modules/react-native-maps/lib/android/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/nongthan/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/01619fcdf85c2f1d355a8c074b9e790f/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/DevBytes/frontend/Mobile/Platfrom/react-native/HealthGISv2/node_modules/react-native-maps/lib/android/build/intermediates/res/merged/release/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/nongthan/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/01619fcdf85c2f1d355a8c074b9e790f/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/DevBytes/frontend/Mobile/Platfrom/react-native/HealthGISv2/node_modules/react-native-maps/lib/android/build/intermediates/res/merged/release/drawable/common_google_signin_btn_text_disabled.xml",
+        "source": "/Users/nongthan/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/01619fcdf85c2f1d355a8c074b9e790f/res/drawable/common_google_signin_btn_text_disabled.xml"
+    }
+]

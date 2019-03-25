@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/DevBytes/frontend/Mobile/Platfrom/react-native/HealthGISv2/node_modules/react-native-maps/lib/android/build/intermediates/res/merged/release/color/common_google_signin_btn_tint.xml",
+        "source": "/Users/nongthan/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/01619fcdf85c2f1d355a8c074b9e790f/res/color/common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "/DevBytes/frontend/Mobile/Platfrom/react-native/HealthGISv2/node_modules/react-native-maps/lib/android/build/intermediates/res/merged/release/color/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/nongthan/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/01619fcdf85c2f1d355a8c074b9e790f/res/color/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/DevBytes/frontend/Mobile/Platfrom/react-native/HealthGISv2/node_modules/react-native-maps/lib/android/build/intermediates/res/merged/release/color/common_google_signin_btn_text_light.xml",
+        "source": "/Users/nongthan/.gradle/caches/transforms-1/files-1.1/play-services-base-10.2.4.aar/01619fcdf85c2f1d355a8c074b9e790f/res/color/common_google_signin_btn_text_light.xml"
+    }
+]
